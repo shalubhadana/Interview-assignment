@@ -5,7 +5,7 @@ Steps to reproduce the issue:
 1. Visit https://osa-web.t-cg.co.uk/
 2. Search for the text "B16 8PE"
 3. Scroll down to the "Active Contact Group" and click to select the organization
-4. Observe that the new sections with recent news are displayed
+4. Observe that the news sections with recent news are displayed
 5. Open https://osa-web.t-cg.co.uk/qatest in the same tab
 6. Notice that the news section fails to appear.
 
